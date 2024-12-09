@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// C# AES encryption and decryption - Cyber Security in C#
+// https://www.youtube.com/watch?v=KykVuOvFfZU&ab_channel=tutorialsEU-C%23
+// https://tutorials.eu/cyber-security-with-csharp/
 
 using System.Security.Cryptography;
 
